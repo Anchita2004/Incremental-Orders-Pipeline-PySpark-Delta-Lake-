@@ -60,7 +60,7 @@ Screenshots:
 | ![Processed files log](screenshots/processed_files.png) | ![Status counts](screenshots/status_counts.png) |
 | ![Zero duplicates](screenshots/zero_duplicates.png) | ![Rejected rows](screenshots/rejected_orders.png) |
 | ![Delta history showing MERGE](screenshots/delta_history.png) | ![Revenue per day](screenshots/revenue_per_day.png) |
-| ![Re-run shows 0 new files](screenshots/rerun_zero_new.png) | ![Job run](screenshots/job_run.png) |
+| ![Re-run shows 0 new files](screenshots/rerun_zero_new.png) | |
 
 ## Repository structure
 
